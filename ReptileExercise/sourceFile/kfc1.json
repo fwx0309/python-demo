@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 347
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 1,
+      "storeName": "启新",
+      "addressDetail": "中心百货肯德基027-82839999",
+      "pro": "Wi-Fi,点唱机,礼品卡",
+      "provinceName": "湖北省",
+      "cityName": "武汉市"
+    },
+    {
+      "rownum": 2,
+      "storeName": "阅马场",
+      "addressDetail": "首义小区45栋1层1号",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "湖北省",
+      "cityName": "武汉市"
+    },
+    {
+      "rownum": 3,
+      "storeName": "花桥",
+      "addressDetail": "育才二小旁（花桥一村15号）",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "湖北省",
+      "cityName": "武汉市"
+    },
+    {
+      "rownum": 4,
+      "storeName": "循礼门",
+      "addressDetail": "江汉区江汉路257号",
+      "pro": "点唱机,礼品卡",
+      "provinceName": "湖北省",
+      "cityName": "武汉市"
+    },
+    {
+      "rownum": 5,
+      "storeName": "武汉徐东",
+      "addressDetail": "徐东大街18号销品茂一层",
+      "pro": "点唱机,礼品卡",
+      "provinceName": "湖北省",
+      "cityName": "武汉市"
+    },
+    {
+      "rownum": 6,
+      "storeName": "钢都花园",
+      "addressDetail": "青山区园林路中百仓储购物广场一楼（123街坊50栋1层）",
+      "pro": "点唱机,店内参观,礼品卡",
+      "provinceName": "湖北省",
+      "cityName": "武汉市"
+    },
+    {
+      "rownum": 7,
+      "storeName": "剑桥",
+      "addressDetail": "珞喻路卧龙剑桥春天B座中百仓储一层",
+      "pro": "礼品卡",
+      "provinceName": "湖北省",
+      "cityName": "武汉市"
+    },
+    {
+      "rownum": 8,
+      "storeName": "汉口火车站一（东侧财神广场）",
+      "addressDetail": "汉口火车站东侧金敦街15附17财神广场一层027-85880657",
+      "pro": "店内参观,礼品卡",
+      "provinceName": "湖北省",
+      "cityName": "武汉市"
+    },
+    {
+      "rownum": 9,
+      "storeName": "沙湖",
+      "addressDetail": "中山路螃蟹岬379号一层",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "湖北省",
+      "cityName": "武汉市"
+    },
+    {
+      "rownum": 10,
+      "storeName": "五支沟",
+      "addressDetail": "餐厅电话：027-83228119五支沟吴家山中心广场对面(中商平价旁边）",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "湖北省",
+      "cityName": "武汉市"
+    }
+  ]
+}
